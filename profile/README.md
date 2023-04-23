@@ -2,4 +2,4 @@
 
 - [🌍 Website](https://atlasos.net)
 - [🦜 Forum](https://forum.atlasos.net)
-- [🧰 Discord](discord.atlasos.net)
+- [💬 Discord](discord.atlasos.net)
