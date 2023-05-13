@@ -1,5 +1,15 @@
-🚀 An open and transparent Windows operating system, designed to optimize performance and latency. 
+<h1 align="center">
+  <a href="http://atlasos.net"><img src="https://gcore.jsdelivr.net/gh/Atlas-OS/Atlas@main/img/banner.png" alt="Atlas" width="450" style="border-radius: 30px"></a>
+</h1>
 
-- [🌍 Website](https://atlasos.net)
-- [🦜 Forum](https://forum.atlasos.net)
-- [💬 Discord](discord.atlasos.net)
+<p align="center">
+  <a href="https://atlasos.net">🌍 Website</a>
+  •
+  <a href="https://docs.atlasos.net">📄 Documentation</a>
+  •
+  <a href="https://discord.atlasos.net" target="_blank">💬 Discord</a>
+  •
+  <a href="https://forum.atlasos.net">🦜 Forum</a>
+  •
+  <a href="https://docs.atlasos.net/contributions">🛠️ Contribution Guide</a>
+</p>
