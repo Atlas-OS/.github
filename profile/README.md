@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="http://atlasos.net" target="_blank"><img src="https://github.com/Atlas-OS/Atlas/blob/main/img/github-banner.png" alt="Atlas" width="800"></a>
+  <a href="http://atlasos.net" target="_blank"><img src="https://github.com/Atlas-OS/branding/blob/main/github-banner.png" alt="Atlas" width="800"></a>
 </h1>
   <p align="center">
     <img alt="Release" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=1A91FF" />
