@@ -16,5 +16,5 @@
   •
   <a href="https://forum.atlasos.net">🦜 Forum</a>
   •
-  <a href="https://docs.atlasos.net/contributions">🛠️ Contribution Guide</a>
+  <a href="https://docs.atlasos.net/contributing/contribution-guidelines">🛠️ Contribution Guidelines</a>
 </p>
