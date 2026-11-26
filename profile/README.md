@@ -12,7 +12,7 @@
   •
   <a href="https://atlasos.net/docs" target="_blank">📚 Documentation</a>
   •
-  <a href="https://discord.atlasos.net" target="_blank">☎️ Discord</a>
+  <a href="https://atlasos.net/discord" target="_blank">☎️ Discord</a>
   •
   <a href="https://github.com/Atlas-OS/Atlas/discussions" target="_blank">💬 Discussions</a>
 </p>
