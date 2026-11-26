@@ -3,14 +3,14 @@
 </h1>
   <p align="center">
     <img alt="Release" src="https://img.shields.io/github/release/atlas-os/atlas?style=for-the-badge&color=1A91FF" />
-    <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2011%20%26%2010-1a91ff?style=for-the-badge&logo=windows" />
+    <img alt="Supported Versions" src="https://img.shields.io/badge/Windows%2011-1a91ff?style=for-the-badge&logo=windows" />
   </p>
 <p align="center">A transparent and lightweight modification to Windows, designed to optimize performance, privacy and usability.</p>
 
 <p align="center">
   <a href="https://atlasos.net" target="_blank">🌐 Website</a>
   •
-  <a href="https://docs.atlasos.net" target="_blank">📚 Documentation</a>
+  <a href="https://atlasos.net/docs" target="_blank">📚 Documentation</a>
   •
   <a href="https://discord.atlasos.net" target="_blank">☎️ Discord</a>
   •
